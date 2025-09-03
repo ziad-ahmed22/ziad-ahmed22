@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed</h1>
 <h3 align="center">A passionate frontend developer using React and React Native</h3>
 
-<br/>
-
 - 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://ziad-ahmed-portfolio.vercel.app/](https://ziad-ahmed-portfolio.vercel.app/)
