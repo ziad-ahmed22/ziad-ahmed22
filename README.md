@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed</h1>
-<h3 align="center">A passionate frontend developer using React and React Native</h3>
+<h3 align="center">Frontend Developer and Mobile Developer with expertise in building responsive web applications using React and cross-platform mobile apps using React Native.</h3>
 
 - 🌱 I’m currently learning **Node Js**
 
